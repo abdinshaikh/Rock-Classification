@@ -6,6 +6,11 @@ This project classifies rock images into seven categories using deep learning. A
 
 The project also includes an interactive prediction system that allows users to upload a rock image and receive the predicted rock type, confidence score, and Top-3 class probabilities.
 
+## Example
+
+![Rock-Classification](images/Rock_Prediction)
+
+
 ## Dataset
 
 The dataset contains 2,077 valid rock images distributed across seven classes:
