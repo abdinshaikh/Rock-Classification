@@ -8,7 +8,7 @@ The project also includes an interactive prediction system that allows users to 
 
 ## Example
 
-![Rock-Classification](images/Rock_Prediction)
+![Rock Prediction](images/Rock_Prediction)
 
 
 ## Dataset
